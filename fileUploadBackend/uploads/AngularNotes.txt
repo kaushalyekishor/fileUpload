@@ -1,0 +1,14 @@
+[ ] = property binding
+[{ }] = Two way binding
+{{ }} = String interpollation
+( )  = event binding
+
+
+
+
+
+constructor(private name: String) {
+  }
+
+constructor(private String name) {
+  }
